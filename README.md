@@ -1,4 +1,4 @@
-# Mrs.Robot Fashion Modelling 👩🏻‍🔬
+# Ms.Robot Fashion Modelling 👩🏻‍🔬
 
 **＊ ✿ ❀ Training a variational autoencoder on the Fashion MNIST dataset ❀ ✿ ＊**
 
@@ -6,8 +6,8 @@
 <div>
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Mrs.Robot.svg)](https://github.com/lucylow/Mrs.Robot/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Mrs.Robot.svg)](https://github.com/lucylow/Mrs.Robot/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/lucylow/Ms.Robot.svg)](https://github.com/lucylow/Ms.Robot/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/lucylow/Ms.Robot.svg)](https://github.com/lucylow/Ms.Robot/pulls)
   [![License](https://img.shields.io/bower/l/bootstrap)]()
 
 </div>
@@ -100,7 +100,7 @@ Example of **encoder network maping inputs to latent vectors**:
 
 ## Label_descriptions &#x1F49C;
 
-**Mrs.Robot has the following fashion pieces in her wardrobe:**
+**Ms.Robot has the following fashion pieces in her wardrobe:**
 
 0.	T-shirt/top
 1.	Trouser
@@ -114,7 +114,7 @@ Example of **encoder network maping inputs to latent vectors**:
 9.	Ankle boot
 
 
-  ![Plot of subset Images from Fashion MNIST dataset](https://github.com/lucylow/Mrs.Robot/blob/master/images/mnist%20labels.png)
+  ![Plot of subset Images from Fashion MNIST dataset](https://github.com/lucylow/Ms.Robot/blob/master/images/mnist%20labels.png)
     
    *Image. The 0 to 9 label descriptions for the Fashion MNIST dataset*
   
@@ -133,7 +133,7 @@ npm install
 
 ## Node.js Applications on Microsoft's Azure &#x1F49C;
 
-* Mrs. Robot application built using Node.js is hosted on Azure with deployments automatically connecting to the github repo and syncing to Azure
+* Ms. Robot application built using Node.js is hosted on Azure with deployments automatically connecting to the github repo and syncing to Azure
 * Applications managed with VS code or web browser
 * Quick deployment of full-stack applications on Linux service (ex. Docker container)
 * Video tutorial "Build and deploy Node.js and React apps with Visual Studio Code, Azure App Service and Cosmos DB" https://www.youtube.com/watch?v=mvW0tIsdnHI&list=PLLasX02E8BPBsxTwjnhjcPYHWAbzUZvf7
@@ -153,7 +153,7 @@ npm install
 
 ## Download_the_fashion_data &#x1F49C;
 
-* Download **Mrs.Robot's fashion dataset with over 60,000 fashion training set images** [train-images-idx3-ubyte.gz](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz) from [here](https://github.com/zalandoresearch/fashion-mnist#get-the-data)
+* Download **Ms.Robot's fashion dataset with over 60,000 fashion training set images** [train-images-idx3-ubyte.gz](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz) from [here](https://github.com/zalandoresearch/fashion-mnist#get-the-data)
 * Uncompress the large file size (26 MBytes)
 * Move the uncompressed file `train-images-idx3-ubyte` into `dataset` folder in the example folder of this repo
 
@@ -163,7 +163,7 @@ npm install
 
 * Can not feed all the data to the model at once due to computer memory limitations so **data is split into "batches"** 
 * When all batches are fed exactly once, an "epoch" is completed. As training script runs, **preview images afer every epoch will show**
-* At the end of each epoch the preview image should look more and more like an item of clothing for Mrs.Robot
+* At the end of each epoch the preview image should look more and more like an item of clothing for Ms.Robot
 
 ```sh
 yarn train
@@ -173,11 +173,11 @@ yarn train
 
 ## Loss_error_function &#x1F49C;
 
-* **Loss function to account for error in training** since Mrs.Robot is picky about her fashion pieces 
+* **Loss function to account for error in training** since Ms.Robot is picky about her fashion pieces 
 * Two loss function options: The default **binary cross entropy (BCE)** or **mean squared error (MSE)**
 * The loss from a good training run will be approx 40-50 range whereas an average training run will be close to zero
 
-  ![Example loss curve from training](https://github.com/lucylow/Mrs.Robot/blob/master/images/vae_tensorboard2.png)
+  ![Example loss curve from training](https://github.com/lucylow/Ms.Robot/blob/master/images/vae_tensorboard2.png)
 
     *Image of loss curve with the binary cross entropy error function*
 
@@ -192,18 +192,18 @@ Use `--logDir` flag of `yarn train` command. Log the **batch-by-batch loss value
 yarn train --logDir /tmp/vae_logs
 ```
 
-Start TensorBoard in a separate terminal to  print an **http:// URL to the console**. The training process can then be **monitored in the browser by Mrs.Robot:**
+Start TensorBoard in a separate terminal to  print an **http:// URL to the console**. The training process can then be **monitored in the browser by Ms.Robot:**
 
 ```sh
 pip install tensorboard 
 tensorboard --logdir /tmp/vae_logs
 ```
 
-![Tensorboard Monitoring](https://github.com/lucylow/Mrs.Robot/blob/master/images/tensorboard%20web%20view.png)
+![Tensorboard Monitoring](https://github.com/lucylow/Ms.Robot/blob/master/images/tensorboard%20web%20view.png)
 
 *Image. Tensorboard's monitoring interface.*
 
-![Tensorboard](https://github.com/lucylow/Mrs.Robot/blob/master/images/tensorboard%20curves.png)
+![Tensorboard](https://github.com/lucylow/Ms.Robot/blob/master/images/tensorboard%20curves.png)
 
 *Image. Tensorboard's monitoring interface.*
 
@@ -212,7 +212,7 @@ tensorboard --logdir /tmp/vae_logs
 
 ## Model_Discussion &#x1F49C;
 
-**VAE is a generative mode**l which means it can be used to **generate new fashion pieces for Mrs.Robot**. This is done by scanning the latent plane, sampling the latent points at regular intervals, to generate the corresponding fashion piece for each point. Run to serve the model and the training web page 👩🏻‍🔬:
+**VAE is a generative mode**l which means it can be used to **generate new fashion pieces for Ms.Robot**. This is done by scanning the latent plane, sampling the latent points at regular intervals, to generate the corresponding fashion piece for each point. Run to serve the model and the training web page 👩🏻‍🔬:
 
 
 ```sh
@@ -223,9 +223,9 @@ yarn watch
 Refer to image below for a **visualization of the latent manifold** that was **"generated"**:
 
 
-![screenshot of results on fashion MNIST. A 30x30 grid of small images](https://github.com/lucylow/Mrs.Robot/blob/master/images/fashion-mnist-vae-scr.png)
+![screenshot of results on fashion MNIST. A 30x30 grid of small images](https://github.com/lucylow/Ms.Robot/blob/master/images/fashion-mnist-vae-scr.png)
 
-  *Image of completed training results on fashion MNIST 30x30 grid of small images for Mrs.Robot*
+  *Image of completed training results on fashion MNIST 30x30 grid of small images for Ms.Robot*
   
 ---
 
