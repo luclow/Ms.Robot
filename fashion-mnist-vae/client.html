@@ -1,0 +1,103 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../shared/tfjs-examples.css" />
+
+  <style>
+    .plot-area {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .row {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .col {
+      display: flex;
+      flex-direction: column;
+    }
+
+    input {
+      max-width: 80px;
+    }
+  </style>
+  
+</head>
+
+<body>
+  <div class='tfjs-example-container centered-container'>
+    <section class='title-area'>
+      <h1>MRS.ROBOT (VAE)</h1>
+      <p class='subtitle'>Training a Variational Autoenconder on Fashion MNIST dataset.</p>
+    </section>
+    <section>
+      <p class='section-head'>Description</p>
+      <p>
+        Trains a
+        <a href="https://blog.keras.io/building-autoencoders-in-keras.html">
+          variational autoencoder</a>
+        to generate images that resemble those found in the <a href="https://github.com/zalandoresearch/fashion-mnist">
+          fashion MNIST</a> dataset. For detailed instructions read the <a href="https://github.com/lucylow/Mrs.Robot">
+          fashion MNIST</a>.
+     Mrs.Robot repo.
+      </p>
+      <p>
+        The 0 to 9 label descriptions for the Fashion MNIST dataset:
+        0.	T-shirt/top
+        1.	Trouser
+        2.	Pullover
+        3.	Dress
+        4.	Coat
+        5.	Sandal
+        6.	Shirt
+        7.	Sneaker
+        8.	Bag
+        9.	Ankle boot
+      </p>
+
+      <p>
+        Trains the model in Node.js environment. Use "yarn" or "npm install". The page contains a viewer for the trained model.
+      </p>
+
+
+    </section>
+
+    <div>
+      <section>
+        <p class='section-head'>Instructions</p>
+        <p>
+          User defines the parameters in the function using variational autoencoder. User can adjust the number of images in grid, and the start and end values used to generate each image:
+        </p>
+      </section>
+
+      <section>
+        <p class='section-head'>Controls</p>
+
+        <div>
+          <label for="">Points per dimension</label>
+          <input id="pointsPerDim" type="number" value=30>
+          <label for="">Start Val</label>
+          <input id="start" type="number" value=-4>
+          <label for="">end Val</label>
+          <input id="end" type="number" value=4>
+
+          <button id="update">Update</button>
+        </div>
+      </section>
+
+      <section>
+        <p class='section-head'>Results</p>
+        <div id="plot-area" class="plot-area">
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="client.js"></script>
+</body>
+
+</html>
