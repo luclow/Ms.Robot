@@ -129,26 +129,6 @@ yarn
 npm install
 ```
 
-----
-
-## Node.js Applications on Microsoft's Azure &#x1F49C;
-
-* Ms. Robot application built using Node.js is hosted on Azure with deployments automatically connecting to the github repo and syncing to Azure
-* Applications managed with VS code or web browser
-* Quick deployment of full-stack applications on Linux service (ex. Docker container)
-* Video tutorial "Build and deploy Node.js and React apps with Visual Studio Code, Azure App Service and Cosmos DB" https://www.youtube.com/watch?v=mvW0tIsdnHI&list=PLLasX02E8BPBsxTwjnhjcPYHWAbzUZvf7
-
----
-
-
-## Azure Training ML Models in the Cloud &#x1F49C;
-
-* The machine learning model is run on remote compute resources using [Microsoft's Azure ML SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml?WT.mc_id=aisummit-github-amynic)
-* [Azure SDK for Node.js developers](https://github.com/Azure/azure-sdk-for-node):
-  * Machine Learning	npm install azure-arm-machinelearning
-  * Machine Learning Compute	npm install azure-arm-machinelearningcompute
-* Connect to Azure's "workspace object"
-
 ---
 
 ## Download_the_fashion_data &#x1F49C;
