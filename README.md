@@ -231,8 +231,9 @@ Refer to image below for a **visualization of the latent manifold** that was **"
 
 ## Conclusion &#x1F49C;
 
-
 Our results show that a **generative model with parameters of a probability distribution** (VAE) is capable of **achieving results on a highly challenging dataset** of over 60,000 fashion set images using machine learning.
+
+**Intelligence never goes out of style.**
 
 
 ---
