@@ -42,7 +42,7 @@
 
     ![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
 
-    *Image. Gender/Brilliance Bias. Google Search's auto suggestions when user types in "**How to get my daughter into...**" [Reference video](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
+    *Image. Gender/Brilliance Bias. Google Search's auto suggestions when user types in "**How to get my daughter into...**" [Also, reference video on why looks are not everything in life.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
 
 ---
 
