@@ -219,15 +219,15 @@ Our results show that a **generative model with parameters of a probability dist
 ---
 
 ## References &#x1F49C;
-* [Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST] https://www.tensorflow.org/tutorials/keras/basic_classification
-* [Zaiando Research Fashion MNIST data] http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
-* [Microsoft Documentation. Node.js on Azure]https://azure.microsoft.com/en-ca/develop/nodejs/
+* Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST https://www.tensorflow.org/tutorials/keras/basic_classification
+* Zaiando Research Fashion MNIST data http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
+* Microsoft Documentation. Node.js on Azure https://azure.microsoft.com/en-ca/develop/nodejs/
 * Learning generative visual models from training examples: An
 incremental bayesian approach tested on 101 object categories. 
-* [Google Scholar - Publications on Fashion MNIST data sets] https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fashion-mnist&btnG=&oq=fas
-* [Building Autoencoders in Keras using DL for Python] https://blog.keras.io/building-autoencoders-in-keras.html
-* Microsoft Azure Train image classification data in cLOUD https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml?WT.mc_id=aisummit-github-amynic
+* Google Scholar - Publications on Fashion MNIST data sets https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fashion-mnist&btnG=&oq=fas
+* Building Autoencoders in Keras using DL for Python https://blog.keras.io/building-autoencoders-in-keras.html
+* Microsoft Azure Train image classification data in CLoud https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml?WT.mc_id=aisummit-github-amynic
 * L. Fei-Fei, R. Fergus, and P. Perona. Learning generative visual models from few training examples. Computer Vision and Image Understanding. 2007.
-* [Kaggle Data Science competitions with fashion data set] https://www.kaggle.com/zalando-research/fashionmnist
+* Kaggle Data Science competitions with fashion data set https://www.kaggle.com/zalando-research/fashionmnist
 * Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747
 * Kingma, Diederik P., and Max Welling. "Auto-Encoding Variational Bayes." https://arxiv.org/abs/1312.6114
