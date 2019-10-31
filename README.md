@@ -222,8 +222,7 @@ Our results show that a **generative model with parameters of a probability dist
 * Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST https://www.tensorflow.org/tutorials/keras/basic_classification
 * Zaiando Research Fashion MNIST data http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
 * Microsoft Documentation. Node.js on Azure https://azure.microsoft.com/en-ca/develop/nodejs/
-* Learning generative visual models from training examples: An
-incremental bayesian approach tested on 101 object categories. 
+* Repo name inspiration from Mr.Robot. https://mrrobot.fandom.com/wiki/Elliot_Alderson
 * Google Scholar - Publications on Fashion MNIST data sets https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fashion-mnist&btnG=&oq=fas
 * Building Autoencoders in Keras using DL for Python https://blog.keras.io/building-autoencoders-in-keras.html
 * Microsoft Azure Train image classification data in CLoud https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-train-models-with-aml?WT.mc_id=aisummit-github-amynic
