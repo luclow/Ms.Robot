@@ -41,7 +41,7 @@
 
     ![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
 
-    *Image of Gender/Brilliance Bias. Google Search's auto suggestions when user types in "**How to get my daughter into...**" Also, reference Cameron Russell's TedX video "Looks aren't everything. Believe me, I'm a model." [Link to video here.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
+    *Image of Gender/Brilliance Bias. Google Search's auto suggestions when user types in "**How to get my daughter into...**" Reference Cameron Russell video on "Looks aren't everything. Believe me, I'm a model." [Link to video here.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
 
 ---
 
