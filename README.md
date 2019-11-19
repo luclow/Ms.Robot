@@ -189,7 +189,9 @@ tensorboard --logdir /tmp/vae_logs
 
 ---
 
-## Model_Discussion &#x1F49C;
+## Conclusion_Model_Discussion &#x1F49C;
+
+Our results show that a **generative model with parameters of a probability distribution** (VAE) is capable of **achieving results on a highly challenging dataset** of over 60,000 fashion set images using machine learning. 
 
 **VAE is a generative mode**l which means it can be used to **generate new fashion pieces for Ms.Robot**. This is done by scanning the latent plane, sampling the latent points at regular intervals, to generate the corresponding fashion piece for each point. Run to serve the model and the training web page 👩🏻‍🔬:
 
@@ -204,15 +206,7 @@ Refer to image below for a **visualization of the latent manifold** that was **"
 
 ![screenshot of results on fashion MNIST. A 30x30 grid of small images](https://github.com/lucylow/Ms.Robot/blob/master/images/fashion-mnist-vae-scr.png)
 
-  *Image of completed training results on fashion MNIST 30x30 grid of small images for Ms.Robot*
-  
----
-
-## Conclusion &#x1F49C;
-
-Our results show that a **generative model with parameters of a probability distribution** (VAE) is capable of **achieving results on a highly challenging dataset** of over 60,000 fashion set images using machine learning.
-
-**Intelligence never goes out of style.**
+  *Image of completed training results on fashion MNIST 30x30 grid of small images for Ms.Robot. She thanks you for helping her and says "Intelligence never goes out of style"."*
 
 
 ---
