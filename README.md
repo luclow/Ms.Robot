@@ -24,8 +24,7 @@
 * [Run the training script](#Run_the_training_script-) 
 * [Loss error function](#Loss_error_function-)
 * [TensorBoard monitoring model training](#TensorBoard_monitoring_model_training-)
-* [Model Discussion](#Model_Discussion-)
-* [Conclusion](#Conclusion-)
+* [Conclusion_Model Discussion](#Conclusion_Model_Discussion-)
 * [References](#references-) 
 
 ---
