@@ -190,7 +190,7 @@ tensorboard --logdir /tmp/vae_logs
 
 ## Conclusion_Model_Discussion &#x1F49C;
 
-Our results show that a **generative model with parameters of a probability distribution** (VAE) is capable of **achieving results on a highly challenging dataset** of over 60,000 fashion set images using machine learning. **VAE is a generative mode**l which means it can be used to **generate new fashion pieces for Ms.Robot**. This is done by scanning the latent plane, sampling the latent points at regular intervals, to generate the corresponding fashion piece for each point. Run to serve the model and the training web page. Ms.Robot thanks you for helping her and says "Intelligence never goes out of style" 👩🏻‍🔬.
+Our results show that a **generative model with parameters of a probability distribution** (VAE) is capable of **achieving results on a highly challenging dataset** of over 60,000 fashion set images using machine learning. **VAE is a generative mode**l which means it can be used to **generate new fashion pieces for Ms.Robot**. This is done by scanning the latent plane, sampling the latent points at regular intervals, to generate the corresponding fashion piece for each point. Run to serve the model and the training web page. **Ms.Robot thanks you for helping her and says "Intelligence never goes out of style" 👩🏻‍🔬.**
 
 
 ```sh
