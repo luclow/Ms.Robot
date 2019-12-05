@@ -1,6 +1,7 @@
 # Ms.Robot Fashion Modelling 👩🏻‍🔬
 
 **＊ ✿ ❀ Training a variational autoencoder on the Fashion MNIST dataset ❀ ✿ ＊**
+**"How to get my daughter into modelling?"**
 
 
 <div>
