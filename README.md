@@ -214,5 +214,3 @@ yarn watch
 * Kaggle Data Science competitions with fashion data set https://www.kaggle.com/zalando-research/fashionmnist
 * Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747
 * Kingma, Diederik P., and Max Welling. "Auto-Encoding Variational Bayes." https://arxiv.org/abs/1312.6114
-
-**Ms.Robot thanks you for helping her and says "Intelligence never goes out of style" 👩🏻‍🔬.**
