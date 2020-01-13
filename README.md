@@ -198,7 +198,7 @@ yarn watch
 
 ![screenshot of results on fashion MNIST. A 30x30 grid of small images](https://github.com/lucylow/Ms.Robot/blob/master/images/fashion-mnist-vae-scr.png)
 
-  *Image of completed training results on fashion MNIST 30x30 grid of small images for Ms.Robot.**Visualization of the latent manifold** that was **"generated"***.
+  *Image of completed training results on fashion MNIST 30x30 grid of small images for Ms.Robot. Visualization of the latent manifold** that was "generated" by the Ms.Robot generative model.
 
 
 ---
