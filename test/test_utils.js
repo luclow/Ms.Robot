@@ -1,4 +1,3 @@
-// Execute all unit tests in the current directory. 
 // Takes jasmine_util from tfjs-core.
 // Use the tfjs-core module from the right test directory.
 
