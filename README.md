@@ -40,7 +40,7 @@
 
     ![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
 
-    *Image of Gender/Brilliance Bias. Google's suggestions when user types "**How to get my daughter into...** " Reference Cameron Russell video "Looks aren't everything. Believe me, I'm a model." [Link to video here.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
+    *Image of [Gender/Brilliance Bias](https://fermatslibrary.com/s/gender-stereotypes-about-intellectual-ability-emerge-early-and-influence-children-s-interests#email-newsletter). Google's suggestions when user types "**How to get my daughter into...** " Reference Cameron Russell video "Looks aren't everything. Believe me, I'm a model." [Link to video here.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
 
 ---
 
@@ -205,6 +205,7 @@ yarn watch
 
 ## References &#x1F49C;
 * Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST https://www.tensorflow.org/tutorials/keras/basic_classification
+* Genius Bias Gender Paper https://fermatslibrary.com/s/gender-stereotypes-about-intellectual-ability-emerge-early-and-influence-children-s-interests#email-newsletter
 * Zaiando Research Fashion MNIST data http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
 * "How to get my daughter into modeling?" https://duckduckgo.com/?q=how+to+get+my+daughter+into+modeling&t=hx&ia=web
 * Repo name inspiration from Mr.Robot. https://mrrobot.fandom.com/wiki/Elliot_Alderson
