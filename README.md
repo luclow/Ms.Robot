@@ -204,11 +204,11 @@ yarn watch
 ---
 
 ## References &#x1F49C;
+* "How to get my daughter into modeling?" https://duckduckgo.com/?q=how+to+get+my+daughter+into+modeling&t=hx&ia=web
 * Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST https://www.tensorflow.org/tutorials/keras/basic_classification
 * Genius Bias Gender Paper https://fermatslibrary.com/s/gender-stereotypes-about-intellectual-ability-emerge-early-and-influence-children-s-interests#email-newsletter
 * Zaiando Research Fashion MNIST data http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
-* "How to get my daughter into modeling?" https://duckduckgo.com/?q=how+to+get+my+daughter+into+modeling&t=hx&ia=web
-* Repo name inspiration from Mr.Robot. https://mrrobot.fandom.com/wiki/Elliot_Alderson
+* Repo name inspiration from Mr.Robot https://mrrobot.fandom.com/wiki/Elliot_Alderson
 * Google Scholar - Publications on Fashion MNIST data sets https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=fashion-mnist&btnG=&oq=fas
 * Building Autoencoders in Keras using DL for Python https://blog.keras.io/building-autoencoders-in-keras.html
 * L. Fei-Fei, R. Fergus, and P. Perona. Learning generative visual models from few training examples. Computer Vision and Image Understanding. 2007.
