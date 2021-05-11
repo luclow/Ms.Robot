@@ -2,6 +2,9 @@
 
 **＊ ✿ ❀Fashion MNIST dataset ❀ ✿ ＊**
 
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.41%20PM.png)
+
+
 
 <div>
   
@@ -37,10 +40,6 @@
   * TensorflowJS==0.6.7
   
 * The model will be trained on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset 
-
-
-
-![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.41%20PM.png)
 
 ![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.52%20PM.png)
 
