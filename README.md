@@ -1,4 +1,4 @@
-# AI-powered Fashion Modelling 👩🏻‍🔬
+# AI-powered Fashion Models 👩🏻‍🔬
 
 **＊ ✿ ❀Fashion MNIST dataset ❀ ✿ ＊**
 
@@ -44,6 +44,20 @@
 ![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.41%20PM.png)
 
 ![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.52%20PM.png)
+
+---
+## AI-powered Mobile App &#x1F49C;
+
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.25.18%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.25.31%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.25.48%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.25.40%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.26.07%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.26.13%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.26.53%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.26.23%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.26.45%20PM.png)
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.27.28%20PM.png)
 
 ---
 
