@@ -40,7 +40,10 @@
 
     ![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
 
-    *Image of [Gender/Brilliance Bias](https://fermatslibrary.com/s/gender-stereotypes-about-intellectual-ability-emerge-early-and-influence-children-s-interests#email-newsletter). Google's suggestions when user types "**How to get my daughter into...** " Reference Cameron Russell video "Looks aren't everything. Believe me, I'm a model." [Link to video here.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model/up-next)*
+
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.41%20PM.png)
+
+![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.52%20PM.png)
 
 ---
 
