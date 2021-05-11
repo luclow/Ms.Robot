@@ -38,7 +38,6 @@
   
 * The model will be trained on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset 
 
-    ![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
 
 
 ![](https://github.com/lucylow/Ms.Robot/blob/master/images/Screen%20Shot%202021-05-10%20at%208.22.41%20PM.png)
@@ -221,6 +220,9 @@ yarn watch
 ---
 
 ## References &#x1F49C;
+![Gender/Brilliance bias](https://github.com/lucylow/Mrs.Robot/blob/master/images/google_search.png)
+
+
 * "How to get my daughter into modeling?" https://duckduckgo.com/?q=how+to+get+my+daughter+into+modeling&t=hx&ia=web
 * Tensorflow's tutorial with tf.keras, a high-level API to train Fashion MNIST https://www.tensorflow.org/tutorials/keras/basic_classification
 * Genius Bias Gender Paper https://fermatslibrary.com/s/gender-stereotypes-about-intellectual-ability-emerge-early-and-influence-children-s-interests#email-newsletter
